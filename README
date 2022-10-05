@@ -1,0 +1,4 @@
+TSAPA
+
+The regexp-based, proof of concept program language interpreter. 
+Slow and far from being usable. Not even sure if whether it is Turing-complete.
